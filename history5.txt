@@ -1,0 +1,13 @@
+   0 vi /tmp/file.txt
+   1 cat /etc/group | head -2 | tail -1 >>/tmp/file.txt
+   2 nano /tmp/file.txt
+   3 chmod g+w /tmp/file.txt
+   4 ls -la /tmp/file.txt
+   5 chmod u-r /tmp/file.txt
+   6 ls -la /tmp/file.txt
+   7 chmod ugo+x /tmp/file.txt
+   8 ls -la /tmp/file.txt
+   9 history >> history5.txt
+ 
+ 
+ 
